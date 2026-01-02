@@ -2,3 +2,4 @@
 .auto-claude/
 .worktrees/
 .worktrees/
+.env
